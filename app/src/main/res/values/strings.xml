@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tic Tac Toe by Aman Ojha</string>
+    <string name="ProjectName">Welcome to Tic Tac Toe</string>
+    <string name="grid">Our Main Grid</string>
+    <string name="status">X Player\'s Turn</string>
+    <string name="Reset">Reset Game</string>
+</resources>
